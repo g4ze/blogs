@@ -1,5 +1,6 @@
 ---
 title: "Change is the enemy of perfect design"
+seoTitle: "Change is the enemy of perfect design"
 datePublished: Sun Jul 23 2023 20:17:35 GMT+0000 (Coordinated Universal Time)
 cuid: clkfvrwk0000a09l85pxzbt0v
 slug: change-is-the-enemy-of-perfect-design
