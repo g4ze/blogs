@@ -29,7 +29,7 @@ Make sure you have installed docker, using a Linux-based os, preferably Ubuntu a
 This is fairly simple. We'd be using the [Oracle container registry](https://container-registry.oracle.com/) to pull our image:
 
 ```powershell
-docker pull container-registry.oracle.com/mysql/community-server:tag
+docker pull container-registry.oracle.com/mysql/community-server
 ```
 
 A download of several layers should start in your terminal. As soon as the download is complete a simple `docker images` command would show you the downloaded stuff.
@@ -104,7 +104,7 @@ owners.
 
 Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
 
-mysql> 
+mysql>
 ```
 
 If you've made it this far, congrats you have now discovered a new superpower.
